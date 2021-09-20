@@ -1,0 +1,5 @@
+Login
+Username : admin
+Password : admin
+
+Akses : http://localhost:8080/CodeIgniter/index.php/login
